@@ -1,12 +1,18 @@
-# Islamic Assistant — Offline Translation Audio
+# Islamic Assistant — Public Release Assets
 
-Per-language Quran translation audio for the **Noor / Islamic Smart Assistant** desktop app.
+Public downloads for the **Noor / Islamic Smart Assistant** desktop app.
+**This repository contains release assets only — no source code.**
 
-Each release asset is a ZIP of per-ayah MP3 files (`1.mp3` … `6236.mp3`, global ayah numbering)
-for one language, generated with neural text-to-speech from authentic published translations.
-The desktop app downloads these on demand and plays them offline.
+## Releases
 
-**This repository contains audio assets only — no source code.**
+### `v1.0.0` — Desktop installer
+`Islamic.Assistant.Setup.1.0.0.exe` — Windows installer for the Noor desktop app.
+
+### `audio-v1` — Offline translation audio
+One ZIP per language of per-ayah Quran translation MP3s (`1.mp3` … `6236.mp3`,
+global ayah numbering), generated with neural text-to-speech from authentic
+published translations. The desktop app downloads these on demand and plays
+them offline.
 
 | | |
 |--|--|
