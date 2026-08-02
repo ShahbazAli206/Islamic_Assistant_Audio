@@ -6,10 +6,10 @@ Public downloads for the **Noor / Islamic Smart Assistant** desktop app.
 ## Releases
 
 <!-- DESKTOP-RELEASE:START -->
-### `v1.3.17` — Desktop installer (latest)
+### `v1.3.18` — Desktop installer (latest)
 
-[`Islamic-Assistant-Setup-1.3.17.exe`](https://github.com/ShahbazAli206/Islamic_Assistant_Audio/releases/download/v1.3.17/Islamic-Assistant-Setup-1.3.17.exe) — Windows installer for the Noor desktop app.
-Published 2026-07-30. Installs from v1.2.0 onward auto-update to this version.
+[`ISMAA-Setup-1.3.18.exe`](https://github.com/ShahbazAli206/Islamic_Assistant_Audio/releases/download/v1.3.18/ISMAA-Setup-1.3.18.exe) — Windows installer for the Noor desktop app.
+Published 2026-08-02. Installs from v1.2.0 onward auto-update to this version.
 <!-- DESKTOP-RELEASE:END -->
 
 ### `audio-v1` — Offline translation audio
